@@ -1,2 +1,6 @@
-# Hello-Heaven
-This is my first repository
+# c、c++学习小代码
+这是学习c++和c时写的一些小代码
+
+有些是实现书上源码
+
+有些是自己写着玩
